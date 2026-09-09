@@ -86,11 +86,9 @@ I'm a **Frontend Developer** building responsive, maintainable web applications 
 
 ## 🎯 Currently developing
 
-```text
-JavaScript & TypeScript fundamentals  →  scalable React architecture
-Frontend engineering                 →  full-stack application delivery
-WordPress experience                 →  modern headless CMS workflows
-```
+- 🧠 Deepening JavaScript and TypeScript fundamentals
+- 🏗️ Improving scalable React architecture and application structure
+- 🔄 Expanding frontend delivery toward full-stack and headless CMS workflows
 
 ## 📫 Let's connect
 
